@@ -25,6 +25,7 @@ the variables with large values. After normalization, all variables have mean 0
  and standard deviation of 1.
 
 Clustering
+
 For comparison, I run hierarchical clustering and K-means clustering with 5
 clusters. Plotting the dendrogram helps us to determine how many clusters to
 choose. Comparing the centroids of the clusters, we conclude that:
